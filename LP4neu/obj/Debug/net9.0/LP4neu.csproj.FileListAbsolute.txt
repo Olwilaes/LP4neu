@@ -1,0 +1,14 @@
+/Users/oliver/RiderProjects/LP4neu/LP4neu/bin/Debug/net9.0/LP4neu
+/Users/oliver/RiderProjects/LP4neu/LP4neu/bin/Debug/net9.0/LP4neu.deps.json
+/Users/oliver/RiderProjects/LP4neu/LP4neu/bin/Debug/net9.0/LP4neu.runtimeconfig.json
+/Users/oliver/RiderProjects/LP4neu/LP4neu/bin/Debug/net9.0/LP4neu.dll
+/Users/oliver/RiderProjects/LP4neu/LP4neu/bin/Debug/net9.0/LP4neu.pdb
+/Users/oliver/RiderProjects/LP4neu/LP4neu/obj/Debug/net9.0/LP4neu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oliver/RiderProjects/LP4neu/LP4neu/obj/Debug/net9.0/LP4neu.AssemblyInfoInputs.cache
+/Users/oliver/RiderProjects/LP4neu/LP4neu/obj/Debug/net9.0/LP4neu.AssemblyInfo.cs
+/Users/oliver/RiderProjects/LP4neu/LP4neu/obj/Debug/net9.0/LP4neu.csproj.CoreCompileInputs.cache
+/Users/oliver/RiderProjects/LP4neu/LP4neu/obj/Debug/net9.0/LP4neu.dll
+/Users/oliver/RiderProjects/LP4neu/LP4neu/obj/Debug/net9.0/refint/LP4neu.dll
+/Users/oliver/RiderProjects/LP4neu/LP4neu/obj/Debug/net9.0/LP4neu.pdb
+/Users/oliver/RiderProjects/LP4neu/LP4neu/obj/Debug/net9.0/LP4neu.genruntimeconfig.cache
+/Users/oliver/RiderProjects/LP4neu/LP4neu/obj/Debug/net9.0/ref/LP4neu.dll
